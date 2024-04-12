@@ -1,0 +1,19 @@
+{
+  "name": "cci-centralizaed-config-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generated.index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stone-monkeys/cci-centralizaed-config-management.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stone-monkeys/cci-centralizaed-config-management/issues"
+  },
+  "homepage": "https://github.com/stone-monkeys/cci-centralizaed-config-management#readme"
+}
